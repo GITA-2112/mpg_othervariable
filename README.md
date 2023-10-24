@@ -38,11 +38,11 @@ Insight : "fl" represents the fuel type of the vehicles, with the accompanying l
 
 Based on the data:
 
-- 168 vehicles use regular gasoline (fl r)
-- 52 vehicles use premium gasoline (fl p)
-- 8 vehicles use ethanol (fl e)
-- 5 vehicles use diesel (fl d)
-- 1 vehicle uses compressed natural gas (fl c)
+* 168 vehicles use regular gasoline (fl r)
+* 52 vehicles use premium gasoline (fl p)
+* 8 vehicles use ethanol (fl e)
+* 5 vehicles use diesel (fl d)
+* 1 vehicle uses compressed natural gas (fl c)
 
 - Visualize "Class"
 
