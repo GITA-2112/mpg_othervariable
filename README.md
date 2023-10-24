@@ -81,25 +81,32 @@ Insight :
 Action : drop displ >> because positive correlation between displ & cyl
 
 ## Feature Engineering
+
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/82e8f298-5d98-4ef9-b39c-47bad9c0bd5d)
 
 ### Cty Columns
+
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/11929b77-9685-4fa8-842b-170de3e80348)
 
 - cty_efficiency.value_counts()
+
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/ab933173-7979-4fe5-88bf-55e9f8c2aa42)
 
 ### Hwy Columns
+
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/35b4e79e-5a13-4851-89a0-5abee1d1755d)
 
 - hwy_efficiency.value_counts()
+
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/e7a58320-b600-4806-90b5-ada38bcc23c5)
 
 ## Deep Dive EDA :
+
 - An examination between Transmission vs Mobility Efficiency
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/80fbf42f-7e5f-43bc-9bd4-304061adb642)
 
 - Let know Manufacturer, Model, Year and Cty_efficiency = 'Efficient'
+
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/6329b2aa-70b0-493f-a1ed-11c272a905e1)
 
 - Let know Manufacturer, Model, Year and Cty_efficiency = 'Inefficient'
