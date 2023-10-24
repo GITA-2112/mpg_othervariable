@@ -90,27 +90,23 @@ Action : drop displ >> because positive correlation between displ & cyl
 
 ### Cty Columns
 
-![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/11929b77-9685-4fa8-842b-170de3e80348)
+![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/aa9baa18-35ad-4d7b-8c89-76386e357a0f)
 
 - cty_efficiency.value_counts()
 
-![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/ab933173-7979-4fe5-88bf-55e9f8c2aa42)
+![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/4ee4bc7d-370f-4cb0-9bf2-a80997e8343d)
 
 ### Hwy Columns
 
-![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/35b4e79e-5a13-4851-89a0-5abee1d1755d)
+![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/31243d7c-97b5-42ea-ae36-2f153a81e60f)
 
 - hwy_efficiency.value_counts()
 
-![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/e7a58320-b600-4806-90b5-ada38bcc23c5)
+![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/81b86309-9f69-474f-b941-846ce520aab7)
 
 ## Deep Dive EDA :
 
-- An examination between Transmission vs Mobility Efficiency
-![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/80fbf42f-7e5f-43bc-9bd4-304061adb642)
+- An examination between Transmission vs City Mobility Efficiency
+![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/48d5731d-344b-4ab3-95a5-79f21f9d8e22)
 
-- Let know Manufacturer, Model, Year and Cty_efficiency = 'Efficient'
-
-![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/6329b2aa-70b0-493f-a1ed-11c272a905e1)
-
-- Let know Manufacturer, Model, Year and Cty_efficiency = 'Inefficient'
+- An examination between Transmission vs Highway Mobility Efficiency
