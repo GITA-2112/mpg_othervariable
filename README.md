@@ -51,9 +51,13 @@ Based on the data:
 ## Target Analysis
 - **Cty** : "cty" likely represents the city fuel efficiency of the vehicles in miles per gallon (mpg).
 
+![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/7d1aa474-3383-4a90-b24d-86af749a8a8f)
+
 Vehicles with higher city fuel efficiency are often preferred by consumers seeking cost-effective and eco-friendly transportation options for urban commuting and stop-and-go traffic scenarios.
 
 - **Hwy** : "hwy" likely represents the highway fuel efficiency of the vehicles in miles per gallon (mpg).
+
+![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/464ea2d4-7c33-4f4d-843d-68cca59eca6a)
 
 **High highway fuel efficiency is desirable for several reasons:**
 
