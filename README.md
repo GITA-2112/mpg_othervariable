@@ -8,7 +8,7 @@ The dataset likely represents a collection of car specifications that can be use
 
 The data was shared by mentor dibimbing "Abdullah Ghifari".
 
-## Data Understanding
+## Data Collection
 
 ### Visualize "Manufacturer"
 
@@ -78,11 +78,6 @@ Vehicles with higher city fuel efficiency are often preferred by consumers seeki
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/b191d9cc-4770-4b61-acfa-40be201793be)
 Insight :
 ![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/0cf48c48-8ec8-4650-9b82-9807ec84c264)
-
-## Heatmap Correlation
-![image](https://github.com/GITA-2112/mpg_othervariable/assets/135007275/d9703580-488a-4da5-a867-3f199fb0cb33)
-
-Action : drop displ >> because positive correlation between displ & cyl
 
 ## Feature Engineering
 
