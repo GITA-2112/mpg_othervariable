@@ -1,4 +1,4 @@
-# Classification Analysis of City & Highway Car Performance : Considering other variable in Determining Efficiency Mobility.
+# Predicting Efficiency Mobility & Classification Analysis of City & Highway Car Performance
 
 ## Objective : 
 This trend has laid the foundation for a predictive model aimed at classifying the efficiency of cars between 1999 and 2008. The primary goal is to ascertain whether there has been an improvement in performance across different manufacturers over the span of nine years. By delving into the intricacies of these data points, we aim to provide valuable insights into the evolution of the automotive industry and how it has shaped consumer preferences and choices.
